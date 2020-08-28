@@ -23,6 +23,7 @@
       <change afterPath="$PROJECT_DIR$/WillGiger.github.io/iconphoto.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/WillGiger.github.io/index.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/WillGiger.github.io/particle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WillGiger.github.io/profile.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WillGiger.github.io" beforeDir="false" afterPath="$PROJECT_DIR$/WillGiger.github.io" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WillGiger.github.io/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/WillGiger.github.io/index.html" afterDir="false" />
@@ -74,7 +75,8 @@
       <option name="presentableId" value="Default" />
       <updated>1598374238557</updated>
       <workItem from="1598374239691" duration="1542000" />
-      <workItem from="1598395516869" duration="4199000" />
+      <workItem from="1598395516869" duration="4252000" />
+      <workItem from="1598618648641" duration="1431000" />
     </task>
     <servers />
   </component>
@@ -91,6 +93,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
